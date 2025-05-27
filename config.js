@@ -15,12 +15,12 @@ const defaultConfig = {
   SESSION_ID: "WMBU1AKY#0hDgz5n8LT1VA5b1KZdTbsRhJpnPCJilJt4Bl4TCGBI", // Put your session id here
   ALIVE_IMG: "https://github.com/DANUWA-MD/DANUWA-BOT/blob/main/images/Danuwa%20-%20MD.png?raw=true",
   ALIVE_MSG: "*Hello👋 DANUWA-MD Is Alive Now😍*", // Change alive msg from here
-  OPENAI_API_KEY: "",// Add OPENAI API key here
+  OPENAI_API_KEY: "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",// Add OPENAI API key here
   GEMINI_API_KEY: "AIzaSyAOwjA2TP5yQX748d6oeoOJ7HFB_ozmyq0", // Add Gemini API key here
   REMOVE_BG_API_KEY:"", // Add removebg API key here
   WEATHER_API_KEY: "", // Add your weather API key here
-  BOT_OWNER: "94776121326", // Replace your bot owner number here with 94(country code)
-  ownerNumber: ["94776121326"], // Replace your bot owner number here (same as bot owner number)
+  BOT_OWNER: "947768511681", // Replace your bot owner number here with 94(country code)
+  ownerNumber: ["94768511681"], // Replace your bot owner number here (same as bot owner number)
   AUTO_READ_STATUS: "true", // Turn on or off auto read status from here
   MODE: "public", // 'private', 'public'
 };
