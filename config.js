@@ -15,7 +15,7 @@ const defaultConfig = {
   SESSION_ID: "ydYVWLaZ#-PD-dWbqRiZDVbuAKnpjDsYKsjb1TlBupApo3vz4CL4", // Put your session id here
   ALIVE_IMG: "https://github.com/DANUWA-MD/DANUWA-BOT/blob/main/images/Danuwa%20-%20MD.png?raw=true",
   ALIVE_MSG: "*Hello👋 DANUWA-MD Is Alive Now😍*", // Change alive msg from here
-  OPENAI_API_KEY: "",// Add OPENAI API key here
+  OPENAI_API_KEY: "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",// Add OPENAI API key here
   GEMINI_API_KEY: "AIzaSyA8l9Aj6goTucE_3r5gZTNbdkplCVoLwY4", // Add Gemini API key here
   REMOVE_BG_API_KEY:"", // Add removebg API key here
   WEATHER_API_KEY: "", // Add your weather API key here
